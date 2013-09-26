@@ -1,3 +1,4 @@
 nombre: Adrián Grasa
 edad: 23
-carrera: Ingeniería Superior Informática
+<ocio> Soy de Zaragoza </ocio>
+<carrera> Ingeniería Superior Informática </carrera>
