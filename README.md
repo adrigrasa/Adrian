@@ -1,5 +1,5 @@
-Nombre: Adrián Grasa
-Edad: 23
-Carrera: Ingeniería Superior Informática
+<nombre> Adrián Grasa </nombre>
+<edad> 23 </edad>
+<ocio> Soy de Zaragoza </ocio>
+<carrera> Ingeniería Superior Informática </carrera>
 
-Soy de Zaragoza
